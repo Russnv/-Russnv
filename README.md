@@ -6,8 +6,37 @@ Soy desarrolladora **Frontend** enfocada en construir interfaces modernas, acces
 ---
 ## 🌟 Proyecto destacado
 
-### 🐾 Heart & Paws  
-Proyecto grupal orientado a la adopción y donaciones responsables de mascotas, con diseño intuitivo y funcionalidad clara, desarrollado usando tecnologías modernas del stack frontend.
+🐾 Heart & Paws
+
+Proyecto grupal orientado a la adopción responsable de mascotas. Desarrollado con un enfoque completo en la experiencia del usuario, funcionalidad moderna e integración de servicios.
+
+🔧 Tecnologías utilizadas:
+
+    Frontend:
+
+        Next.js
+
+        TailwindCSS
+
+        React Icons
+
+        Autenticación con Supabase
+
+        Chat en tiempo real con Socket.io
+
+        Integración de método de pago (frontend)
+
+    Backend:
+
+        Supabase (auth y base de datos)
+
+        Prisma (ORM)
+
+        NestJS
+
+        Nodemailer (gestión de correos)
+
+        Integración de método de pago (backend)
 
 ## 🌐 Portafolio
 
