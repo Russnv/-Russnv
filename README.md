@@ -1,4 +1,3 @@
-<img src="https://i.imgur.com/your-banner-image.png" alt="banner" width="100%" />
 
 # 👋 ¡Hola! Soy Natalia
 
