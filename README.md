@@ -34,5 +34,5 @@ Soy desarrolladora **Frontend** enfocada en construir interfaces modernas, acces
 
 ## 📫 Contacto
 
-- 📧 Mi-email(russ.natalia.villalba@outlook.com.ar)
-- 💼 LinkedIn(www.linkedin.com/in/russ-villalba-54b80034b)
+- 📧 Mi-email russ.natalia.villalba@outlook.com.ar
+- 💼 LinkedIn www.linkedin.com/in/russ-villalba-54b80034b
