@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/your-banner-image.png" alt="banner" width="100%" />
 
-# 👋 ¡Hola! Soy [Natalia]
+# 👋 ¡Hola! Soy Natalia
 
 Soy desarrolladora **Frontend** enfocada en construir interfaces modernas, accesibles y bien estructuradas usando tecnologías como **React**, **Next.js**, **TailwindCSS** y **TypeScript**. Me interesa la calidad del código, el diseño responsivo y la buena experiencia de usuario.
 
@@ -8,7 +8,7 @@ Soy desarrolladora **Frontend** enfocada en construir interfaces modernas, acces
 
 ## 🌐 Portafolio
 
-🔗 [https://repo-potafolio-git-main-russ-projects-190d3c60.vercel.app/]
+🔗 https://repo-potafolio-git-main-russ-projects-190d3c60.vercel.app/
 
 ---
 
@@ -35,5 +35,5 @@ Soy desarrolladora **Frontend** enfocada en construir interfaces modernas, acces
 
 ## 📫 Contacto
 
-- 📧 [Mi-email](russ.natalia.villalba@outlook.com.ar)
-- 💼 [LinkedIn](www.linkedin.com/in/russ-villalba-54b80034b)
+- 📧 Mi-email(russ.natalia.villalba@outlook.com.ar)
+- 💼 LinkedIn(www.linkedin.com/in/russ-villalba-54b80034b)
