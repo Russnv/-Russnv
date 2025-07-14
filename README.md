@@ -4,6 +4,10 @@
 Soy desarrolladora **Frontend** enfocada en construir interfaces modernas, accesibles y bien estructuradas usando tecnologías como **React**, **Next.js**, **TailwindCSS** y **TypeScript**. Me interesa la calidad del código, el diseño responsivo y la buena experiencia de usuario.
 
 ---
+## 🌟 Proyecto destacado
+
+### 🐾 Heart & Paws  
+Proyecto grupal orientado a la adopción y donaciones responsables de mascotas, con diseño intuitivo y funcionalidad clara, desarrollado usando tecnologías modernas del stack frontend.
 
 ## 🌐 Portafolio
 
